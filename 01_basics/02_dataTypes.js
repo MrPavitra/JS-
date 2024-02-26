@@ -2,7 +2,7 @@
 
 // alert (3 + 3) we are using nodeJs, not browser
 //code readability should be high
-console.log(3 + 3) 
+console.log(4 + 4) 
 console.log("Pavitra")
 
 let name = "Pavitra" // string dataType =>" "
