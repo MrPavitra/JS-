@@ -35,3 +35,14 @@ console.log(typeof outsideTemp);
 console.log(typeof scoreValue);
 console.log(typeof myFunction);
 console.log(typeof heros);
+
+//***************Memory**********************//
+
+// Stack (Primitive) , Heap (Non-Primitive)
+
+let myYoutubename = "thePavitra"
+let anothername = myYoutubename
+anothername = "allTimeAwesome"
+
+console.log(myYoutubename);
+console.log(anothername);
